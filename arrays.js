@@ -22,3 +22,10 @@ console.log(boolean)
 // This method will remove the first element, in this case (2 === 3), from the array and return the value of that element.
 // Expected output of the method will be false since 2 != 3.
 // Expected output of the array will now be [ false, true, true ].
+
+// The index position is an integer representing the position a variable inside an array is in. The index count always starts at zero and goes up incrementally by 1.
+// If we wanted to print the value of the third number in the luckyNums array we could use:
+
+console.log(luckyNums[2])
+
+// Expected value is 23.
